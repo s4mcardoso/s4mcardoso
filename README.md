@@ -1,4 +1,4 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
@@ -21,11 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
 </div>
-
-
-
-<img src="https://raw.githubusercontent.com/s4mcardoso/s4mcardoso/output/snake.svg" alt="Snake animation" />
-
 
 
 <div align="left">
