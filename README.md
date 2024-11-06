@@ -22,11 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/s4mcardoso/s4mcardoso/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuelcardosodeoliveira/" target="_blank">
