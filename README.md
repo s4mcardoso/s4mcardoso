@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from Sorocaba/SP<br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning salesforce and cybersecurity<br>- ⚡ In my free time i like watch movies :)</p>
+<p align="left">I'm from Sorocaba/SP<br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning salesforce and C#<br></p>
 
 ###
 
