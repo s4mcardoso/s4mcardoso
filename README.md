@@ -1,12 +1,12 @@
-<h1 align="left">👩‍💻  About Me</h1>
+<h1 align="left">Sobre Mim</h1>
 
 ###
 
-<p align="left">I'm from Sorocaba/SP<br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning salesforce and C#<br></p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na FACENS/SP<br><br>- Atuando como freelancer, mas sempre em buscar de desafios e inovações<br>- Estudando C# e Python<br></p>
 
 ###
 
-<h2 align="left">🛠 Languages and tools</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
 
