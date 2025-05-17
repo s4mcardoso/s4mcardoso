@@ -27,7 +27,7 @@
 
 
 
-<h3 align="left">Social Midia</h3>
+<h3 align="left">Contato</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuelcardosodeoliveira/" target="_blank">
