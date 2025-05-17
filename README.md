@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na FACENS/SP<br><br>- Atuando como freelancer, mas sempre em buscar de desafios e inovações<br>- Estudando C# e Python<br></p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na FACENS/SP<br><br>- Atuando como freelancer, mas sempre em buscar de novos desafios<br>- Estudando C# e Python<br></p>
 
 ###
 
