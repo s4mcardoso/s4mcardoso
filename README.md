@@ -8,7 +8,7 @@
 
 ###
 
-[Acesse meu portfólio 🔗]([https://gitfollio.vercel.app/s4mcardoso](https://devbook.app/p/s4mcardoso))
+[Acesse meu portfólio 🔗](https://devbook.app/p/s4mcardoso))
 
 ###
 
