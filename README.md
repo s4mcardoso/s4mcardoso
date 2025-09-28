@@ -6,14 +6,6 @@
 
 ###
 
-
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/s4mcardoso"> 🔗
-  https://gitfollio.vercel.app/s4mcardoso
-</a>
-
-###
-
 <h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
