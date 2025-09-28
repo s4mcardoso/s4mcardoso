@@ -29,7 +29,7 @@
 
 
 Acesse meu portfólio em: 
-<a href="[https://gitfollio.vercel.app/s4mcardoso](https://devbook.app/p/s4mcardoso)"> 🔗</a>
+<a href="[https://gitfollio.vercel.app/s4mcardoso](https://devbook.app/p/s4mcardoso)"> s4mcardoso 🔗</a>
 
   
 
