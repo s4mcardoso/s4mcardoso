@@ -6,6 +6,12 @@
 
 ###
 
+###
+
+[Acesse meu portfólio 🔗]([https://gitfollio.vercel.app/s4mcardoso](https://devbook.app/p/s4mcardoso))
+
+###
+
 <h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
@@ -27,8 +33,6 @@
   <img width="12" />
 </div>
 
-
-[Acesse meu portfólio 🔗](https://gitfollio.vercel.app/s4mcardoso)
 
   
 
