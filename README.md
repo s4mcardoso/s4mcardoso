@@ -28,8 +28,7 @@
 </div>
 
 
-Acesse meu portfólio em: 
-<a href="[https://gitfollio.vercel.app/s4mcardoso](https://devbook.app/p/s4mcardoso)"> s4mcardoso 🔗</a>
+[Acesse meu portfólio 🔗](https://gitfollio.vercel.app/s4mcardoso)
 
   
 
