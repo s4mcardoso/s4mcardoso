@@ -1,8 +1,8 @@
 # Opa, eu sou o Samuel 👋
 
-Sou Analista de Suporte e Migração na Versed IT Consulting, em Sorocaba/SP, e curso Análise e Desenvolvimento de Sistemas na FACENS. No dia a dia trabalho com migrações tenant-to-tenant no Microsoft 365 usando as ferramentas da Quest, e estou estudando PowerShell para automatizar o que faço.
+Sou Analista de Suporte e Migração, curso Análise e Desenvolvimento de Sistemas na FACENS. No dia a dia trabalho com migrações tenant-to-tenant no Microsoft 365 usando as ferramentas da Quest, e estou estudando PowerShell para automatizar o que faço.
 
-Gosto de entender como as coisas funcionam por baixo, então monto laboratórios para estudar o que vejo no trabalho e documento tudo aqui.
+Gosto de entender como as coisas funcionam por baixo, então monto laboratórios para estudar as coisas e documento tudo aqui.
 
 ## Áreas de interesse
 
