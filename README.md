@@ -22,7 +22,7 @@ Mais detalhes no meu [LinkedIn](https://www.linkedin.com/in/samcardosoti/).
 
 ## Projeto em destaque
 
-**[lab-t2t-migration](https://github.com/s4mcardoso/hybrid-identity-t2t-lab)**
+**[hybrid-identity-t2t-lab](https://github.com/s4mcardoso/hybrid-identity-t2t-lab)**
 Laboratório de estudo com duas florestas Active Directory sincronizadas para dois tenants Microsoft 365, preparando uma migração com o Quest On Demand Migration. Inclui arquitetura, passo a passo, scripts de validação em PowerShell e os problemas que resolvi no caminho (DNS, Kerberos e regras de sincronização).
 
 ## Projetos da faculdade
