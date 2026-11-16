@@ -41,4 +41,4 @@ Laboratório de estudo com duas florestas Active Directory sincronizadas para do
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Cardoso%20de%20Oliveira-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/samuelcardosodeoliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Cardoso%20de%20Oliveira-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/samcardosoti/)
