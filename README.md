@@ -1,4 +1,4 @@
-# Olá, eu sou o Samuel 👋
+# Opa, eu sou o Samuel 👋
 
 Trabalho com TI em Sorocaba/SP. Hoje atuo em uma consultoria fazendo migrações tenant-to-tenant no Microsoft 365 e curso Análise e Desenvolvimento de Sistemas na FACENS.
 
