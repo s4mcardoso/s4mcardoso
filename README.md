@@ -1,8 +1,8 @@
 # Opa, eu sou o Samuel 👋
 
-Trabalho com TI em Sorocaba/SP. Hoje atuo em uma consultoria fazendo migrações tenant-to-tenant no Microsoft 365 e curso Análise e Desenvolvimento de Sistemas na FACENS.
+Sou Analista de Suporte e Migração na Versed IT Consulting, em Sorocaba/SP, e curso Análise e Desenvolvimento de Sistemas na FACENS. No dia a dia trabalho com migrações tenant-to-tenant no Microsoft 365 usando as ferramentas da Quest, e estou estudando PowerShell para automatizar o que faço.
 
-Meu foco é cloud, principalmente Azure, segurança de identidade (IAM) e infraestrutura. Gosto de entender como as coisas funcionam por baixo, então monto laboratórios para estudar o que faço no trabalho e documento tudo aqui.
+Gosto de entender como as coisas funcionam por baixo, então monto laboratórios para estudar o que vejo no trabalho e documento tudo aqui.
 
 ## Áreas de interesse
 
@@ -10,11 +10,15 @@ Meu foco é cloud, principalmente Azure, segurança de identidade (IAM) e infrae
 - **Segurança de identidade (IAM):** Microsoft Entra ID, Active Directory, controle de acesso e ciclo de vida de contas
 - **Infraestrutura:** Windows Server, DNS, virtualização e identidade híbrida
 
-## No que estou trabalhando
+## Trajetória
 
-- Migração tenant-to-tenant no Microsoft 365
-- Sincronização de identidades com Entra Connect Sync
-- Estudando PowerShell para automatizar tarefas de administração e validação
+| Período | Empresa e cargo | O que faço / fiz |
+|---|---|---|
+| set/2026 até hoje | **Versed IT Consulting**<br>Analista de Suporte e Migração | Migrações entre tenants com Quest On Demand Migration (contas, e-mail, SharePoint, Teams, ODM AD e ODM Sync), gestão de identidades com One Identity Active Roles e troubleshooting de permissões e Service Principals |
+| nov/2025 a ago/2026 | **Dana Incorporated**<br>Aprendiz de TI | Suporte N1 em ambiente industrial multinacional, contas no Active Directory, chamados no ServiceNow e apoio à equipe global de cibersegurança na análise inicial de eventos |
+| jul/2025 a nov/2025 | **Prefeitura de Votorantim**<br>Estagiário de Helpdesk | Suporte N1, manutenção de equipamentos, cabeamento de rede e criação de contas no Active Directory |
+
+Mais detalhes no meu [LinkedIn](https://www.linkedin.com/in/samcardosoti/).
 
 ## Projeto em destaque
 
@@ -28,6 +32,12 @@ Laboratório de estudo com duas florestas Active Directory sincronizadas para do
 | [HydroGuard](https://github.com/s4mcardoso/HydroGuard) | Sensor de qualidade da água com banco de dados, feito no projeto de extensão (UPX) da FACENS |
 | [projeto-criptografia](https://github.com/s4mcardoso/projeto-criptografia) | Projeto de criptografia da APS do 2º semestre |
 
+## Certificações e cursos
+
+- Fortinet Certified Fundamentals in Cybersecurity
+- Cisco Cyber Threat Management (2025)
+- Active Directory: Do Zero ao Avançado (Udemy)
+
 ## Tecnologias
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge)
@@ -35,8 +45,11 @@ Laboratório de estudo com duas florestas Active Directory sincronizadas para do
 ![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003A70?style=for-the-badge)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge)
+![Quest ODM](https://img.shields.io/badge/Quest%20On%20Demand%20Migration-E1251B?style=for-the-badge)
+![Active Roles](https://img.shields.io/badge/One%20Identity%20Active%20Roles-2B2D42?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contato
