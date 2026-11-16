@@ -12,11 +12,11 @@ Gosto de entender como as coisas funcionam por baixo, então monto laboratórios
 
 ## Trajetória
 
-| Período | Empresa e cargo | O que faço / fiz |
+| Período | Cargo | O que faço / fiz |
 |---|---|---|
-| set/2026 até hoje | **Versed IT Consulting**<br>Analista de Suporte e Migração | Migrações entre tenants com Quest On Demand Migration (contas, e-mail, SharePoint, Teams, ODM AD e ODM Sync), gestão de identidades com One Identity Active Roles e troubleshooting de permissões e Service Principals |
-| nov/2025 a ago/2026 | **Dana Incorporated**<br>Aprendiz de TI | Suporte N1 em ambiente industrial multinacional, contas no Active Directory, chamados no ServiceNow e apoio à equipe global de cibersegurança na análise inicial de eventos |
-| jul/2025 a nov/2025 | **Prefeitura de Votorantim**<br>Estagiário de Helpdesk | Suporte N1, manutenção de equipamentos, cabeamento de rede e criação de contas no Active Directory |
+| set/2026 até hoje | **Analista de Suporte e Migração**<br>Consultoria de TI | Migrações entre tenants com Quest On Demand Migration (contas, e-mail, SharePoint, Teams, ODM AD e ODM Sync), gestão de identidades com One Identity Active Roles e troubleshooting de permissões e Service Principals |
+| nov/2025 a ago/2026 | **Aprendiz de TI**<br>Multinacional do setor industrial | Suporte N1 em ambiente fabril, contas no Active Directory, chamados no ServiceNow e apoio à equipe global de cibersegurança na análise inicial de eventos |
+| jul/2025 a nov/2025 | **Estagiário de Helpdesk**<br>Prefeitura | Suporte N1, manutenção de equipamentos, cabeamento de rede e criação de contas no Active Directory |
 
 Mais detalhes no meu [LinkedIn](https://www.linkedin.com/in/samcardosoti/).
 
